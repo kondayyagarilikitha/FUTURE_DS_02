@@ -49,7 +49,7 @@ How can businesses identify the key factors that lead to customer churn and take
 
 ## 📷 Dashboard Preview
 
-[churn dashboard](CHURN DASHBOARD.jpeg)
+[Churn Dashboard](CHURN DASHBOARD.jpeg)
 ---
 
 ## 🔗 Project Files
